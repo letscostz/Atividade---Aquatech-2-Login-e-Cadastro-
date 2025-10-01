@@ -1,2 +1,2 @@
-# Atividade---Aquatech-2-Login-e-Cadastro-
+# Atividade-Aquatech-2
 Atividade de Pesquisa e Inovação - Estilização da página de login e cadastro
